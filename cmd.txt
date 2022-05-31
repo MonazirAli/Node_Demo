@@ -1,0 +1,12 @@
+git init 
+npm init
+npm i express 
+create .env file ### To Save DB credentials and secret token
+create .gitignore file ### It will ignore to upload visually on git repositories
+npm i --save-dev nodemon
+
+
+sudo lsof -i:PORT 
+sudo pkill -9 PID
+
+sudo pkill node
